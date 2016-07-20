@@ -1,0 +1,19 @@
+{
+    "name": "Twitter Enact CMS Plugin",
+    "description": "",
+    "license": "Apache License V2",
+    "authors": [
+        {
+            "name": "admin",
+            "email": "bradleygoskimmin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "autoload": {
+        "classmap":[
+            "app/"
+        ]
+    }
+}
